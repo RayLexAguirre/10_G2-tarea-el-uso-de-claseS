@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "La clase DueDate",
+      "setup": "npm install",
+      "run": "npm run test due-date.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "La clase Product",
+      "setup": "",
+      "run": "npm run test product.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "La clase Ingredient",
+      "setup": "",
+      "run": "npm run test ingredient.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 35
+    },
+    {
+      "name": "La clase Recipe",
+      "setup": "",
+      "run": "npm run test recipe.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 35
+    }
+  ]
+}
